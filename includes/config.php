@@ -1,8 +1,8 @@
 <?php
 // connection to database using PDO
-$dsn = 'mysql:dbname=mseet_30307107_expense_tracker;host=sql112.hstn.me';
-$dbUser = 'mseet_30307107';
-$dbPassword = 'AyQcS72sWxHa';
+$dsn = 'dbName;host=dbHost';
+$dbUser = 'dbUser';
+$dbPassword = 'dbPass';
 
 $options = [
     PDO::ATTR_EMULATE_PREPARES   => false, // turn off emulation mode for "real" prepared statements
