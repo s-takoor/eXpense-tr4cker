@@ -22,6 +22,7 @@ Web Application to enable user(s) track his/her income and expense(s)
 - To read and save all data to MySQL Database.
 
 # Screenshots
+> # Home Page
 > ![Home Page](/assets/screenshots/HomePage.png#gh-dark-mode-only)  
 > ![Dashboard](/assets/screenshots/Dashboard.png#gh-dark-mode-only)  
 > ![Login Page](/assets/screenshots/LoginPage.png#gh-dark-mode-only)  
