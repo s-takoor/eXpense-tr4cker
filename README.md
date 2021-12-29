@@ -40,7 +40,7 @@ Web Application to enable user(s) track his/her income and expense(s)
 > # Add Expense Modal
 > ![Add Expense Modal](/assets/screenshots/AddExpenseModal.png#gh-dark-mode-only)  
 > # Logout
-> ![Logout](/assets/screenshots/Logout.png#gh-dark-mode-only)  
+> ![Logout Modal](/assets/screenshots/Logout.png#gh-dark-mode-only)  
 > # 404 Page
 > ![404 Page](/assets/screenshots/eXpense-tr4cker-404.gif)  
 > # Folder Structure
