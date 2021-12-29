@@ -16,7 +16,7 @@ Web Application to enable user(s) track his/her income and expense(s)
 - HTML;
 - JavaScript;
 - JQuery;
-- MySQL;
+- MySQL.
 
 # :space_invader: Requirements
 - To view income and expense(s) summary;
