@@ -38,7 +38,7 @@ Web Application to enable user(s) track his/her income and expense(s)
 > # Expense Summary
 > ![Expense Summary](/assets/screenshots/ExpenseSummary.png#gh-dark-mode-only)  
 > # Add Expense Modal
-> ![Add Expense Modal](/assets/screenshots/AddIncomeModal.png#gh-dark-mode-only)  
+> ![Add Expense Modal](/assets/screenshots/AddExpenseModal.png#gh-dark-mode-only)  
 > # Logout
 > ![Logout](/assets/screenshots/Logout.png#gh-dark-mode-only)  
 > # 404 Page
